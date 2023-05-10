@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/larry/Documents/Projects/TicTacToe_desktop/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/game.dir/main.c.o -c /home/larry/Documents/Projects/TicTacToe_desktop/main.c",
+  "file": "/home/larry/Documents/Projects/TicTacToe_desktop/main.c"
+}
+]

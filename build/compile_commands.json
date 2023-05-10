@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/larry/Documents/Projects/TicTacToe_desktop/build",
+  "command": "/usr/bin/gcc -I\"/home/larry/Documents/Projects/TicTacToe_desktop/\\$$PROJECT_SOURCE_DIR}\" -g -o CMakeFiles/game.dir/main/main.c.o -c /home/larry/Documents/Projects/TicTacToe_desktop/main/main.c",
+  "file": "/home/larry/Documents/Projects/TicTacToe_desktop/main/main.c"
+},
+{
+  "directory": "/home/larry/Documents/Projects/TicTacToe_desktop/build",
+  "command": "/usr/bin/g++ -I\"/home/larry/Documents/Projects/TicTacToe_desktop/\\$$PROJECT_SOURCE_DIR}\" -g -o CMakeFiles/game.dir/main/game.cpp.o -c /home/larry/Documents/Projects/TicTacToe_desktop/main/game.cpp",
+  "file": "/home/larry/Documents/Projects/TicTacToe_desktop/main/game.cpp"
+}
+]

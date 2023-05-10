@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/game.dir/main/main.c.o CMakeFiles/game.dir/main/game.cpp.o -o game 

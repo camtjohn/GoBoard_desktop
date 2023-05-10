@@ -1,0 +1,13 @@
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/game.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/edit_cache.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/rebuild_cache.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/list_install_components.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/install.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/install/local.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/CMakeFiles/install/strip.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/edit_cache.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/rebuild_cache.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/list_install_components.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/install.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/install/local.dir
+/home/larry/Documents/Projects/TicTacToe_desktop/build/main/CMakeFiles/install/strip.dir
